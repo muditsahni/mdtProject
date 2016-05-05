@@ -1,0 +1,13 @@
+{
+    "activities-heart": 
+        {
+            "dateTime": "04-25-2016",
+            "heartRateZones": 
+                    {
+                        "max": 82,
+                        "min": 68,
+                        "avg": 75,
+                        "dev": 12
+					}
+		}
+}		
